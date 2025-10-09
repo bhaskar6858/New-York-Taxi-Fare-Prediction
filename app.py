@@ -99,8 +99,8 @@ with st.sidebar:
             }
             </style>
             <div class='credits'>
-                Engineered by Bhaskar Singh<br>
-                All Rights Reserved
+                Engineered by Apoorva<br>
+                ©2025 All rights reserved
             </div>
             """, unsafe_allow_html=True)
 
